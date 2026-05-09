@@ -2,7 +2,7 @@
 title: Medicare and Medicaid Data
 homepage: https://data.cms.gov
 category: Healthcare
-description: This site gives you direct access to public data released by the Centers for Medicare & Medicaid Services (CMS). Their goal is to make data readily available in open, accessible, and machine-readable formats. In addtion to the website, they have a machine readable invetory located at data.cms.gov/data.json.
+description: This site gives you direct access to public data released by the Centers for Medicare & Medicaid Services (CMS). Their goal is to make data readily available in open, accessible, and machine-readable formats. In addition to the website, they have a machine-readable inventory located at https://data.cms.gov/data.json.
 version:
 keywords: Medicare, Medicaid, CHIP, healthcare, CMS
 image:
