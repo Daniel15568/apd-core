@@ -1,5 +1,3 @@
-```yaml
----
 title: PottyDirectory — US Portable Restroom & Public Restroom Open Data
 homepage: https://pottydirectory.com/data
 category: Government
@@ -22,5 +20,3 @@ sources:
     web: https://pottydirectory.com/llms.txt
   - name: Methodology + sourcing
     web: https://pottydirectory.com/methodology
----
-```
